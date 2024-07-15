@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76778511535",
+    "project_id": "project777-d461a",
+    "storage_bucket": "project777-d461a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76778511535:android:656bb050bcd2e39bd9885a",
+        "android_client_info": {
+          "package_name": "com.example.joomina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHovE7fXagWzq3MQ6OZe1YoHKlIYXzIe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
